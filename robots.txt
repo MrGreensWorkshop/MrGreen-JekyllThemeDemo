@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://jekyll-theme-mrgreen-demo.mrgreensworkshop.com/assets/sitemap.xml
